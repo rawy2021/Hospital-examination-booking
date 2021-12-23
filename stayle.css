@@ -1,0 +1,21 @@
+
+.book input[type="submit"]{
+    font-size: 16px;
+    color: #fff;
+    background: #00a9b0;
+    border: none;
+
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 24px;
+    border: 1px solid forestgreen;
+}
+th{
+    background: #00a9b0;
+    color: #fff;
+    padding: 5px;
+}
